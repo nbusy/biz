@@ -1,6 +1,6 @@
 # Business Plan
 
-Note: this repo is here for task keeping only.
+*Note: this repo is here for task keeping only.*
 
 NBusy is an open-source encrypted chat application and server. We want to keep it open-source while having a sustainable business model. Doing so, our primary objectives are:
 
