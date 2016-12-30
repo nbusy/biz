@@ -15,3 +15,7 @@ This always clashes with open-sourcing but is easily doable via maintaining prop
 *  Maintain engineering excellence and technical edge.
 
 Having something that is utterly stable and reliable while using cutting edge tech is always a challenge but that is what drives the community to use and improve our software.
+
+And finally:
+
+> The stage is beneath our talent, but we shall elevate it.
